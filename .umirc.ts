@@ -6,5 +6,6 @@ export default defineConfig({
   },
   routes: [{ path: '/', component: '@/pages/index' }],
   dynamicImport: {},
-  publicPath: isProduction ? '' : '/',
+  antd: {},
+  publicPath: isProduction ? 'https://gl4523.github.io/jdr/' : '/',
 });
