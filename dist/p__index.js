@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[0],{QeBL:function(e,t,n){"use strict";n.r(t);var i=n("q1tI"),a=n.n(i),l=n("RKie"),c=n.n(l);t["default"]=()=>a.a.createElement("div",null,a.a.createElement("h1",{className:c.a.title},"Page index"))},RKie:function(e,t,n){e.exports={title:"title___2cyli"}}}]);
