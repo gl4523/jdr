@@ -14,5 +14,6 @@ export default defineConfig({
   chainWebpack (config) {
     config.output
       .path(path.join(__dirname, 'docs'))
-  }
+  },
+  base: '/jdr'
 });
